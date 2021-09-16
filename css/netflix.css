@@ -1,0 +1,314 @@
+
+body {
+    margin: 0;
+    background-color: black;
+}
+.logo > img{
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    width: 165px;
+    height: 45px;
+    left: 51px;
+    top: 36px;
+}
+.form1{
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    height: 36px;
+    width: 103px;
+    background: rgba(0,0,0,.4);
+    color: #ffffff;
+    border-radius: 3px;
+    border-color: #ffffff;
+    right: 150px;
+    top: 36px;
+    background: url() no-repeat 3px 1px;
+    background-size: auto 90%;
+}
+.knopka1{
+    display: inline-block;
+    background: rgb(255, 0, 12);
+    border: 6px solid rgb(255, 0, 0);
+    border-radius: 4px;
+    color: azure;
+    position: absolute;
+    right: 50px;
+    top: 36px;
+    z-index: 1;
+    width: 74px;
+    height: 36px;
+}
+.background {
+    display: inline-block;
+    position: absolute;
+    z-index: 0;
+    filter: brightness(0.5);
+    width: 100%;
+    height: 860px;
+
+}
+.opisanie{
+    display: inline-table;
+    position: absolute;
+    z-index: 1;
+    color: white;
+    top: 85px;
+    font-size: 33px;
+    text-align: center;
+    right: 30%;
+    max-width: 800px;
+    margin: 0px 45px;
+}
+.opisanie2{
+    display: inline-table;
+    position: absolute;
+    z-index: 1;
+    color: white;
+    top: 361px;
+    text-align: center;
+    right: 30%;
+    max-width: 800px;
+    font-size: 19px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.opisanie3{
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline-table;
+    position: absolute;
+    z-index: 1;
+    color: white;
+    top: 444px;
+    text-align: center;
+    right: 30%;
+    max-width: 800px;
+    font-size: 16px;
+}
+.addres1{
+    display: inline-block;
+    position: absolute;
+    top: 521px;
+    z-index: 1;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    right: 47%;
+    width: 479px;
+    height: 50px;
+}
+.knopka{
+    display: inline-block;
+    position: absolute;
+    top: 521px;
+    z-index: 1;
+    right: 551px;
+    width: 317px;
+    margin-left: 0px;
+    margin-right: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 58px;
+    background: red;
+    padding: 17px;
+    color: white;
+    border-radius: 3px;
+}
+.div > img{
+    display: inline-block;
+    position: absolute;
+    z-index: 0;
+    filter: brightness(0.5);
+    width: 136%;
+    height: 100%;
+    max-width: revert;
+}
+.background1{
+    height: 875px;
+    background-color: #313131;
+}
+.background2 > h1{
+    display: inline-block;
+    position: absolute;
+    color: white;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    left: 300px;
+    top: 960px;
+    width: 288px;
+    font-size: 47px;
+}
+.background2 > h2{
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 45px;
+    margin-right: 45px;
+    color: white;
+    top: 1086px;
+    left: 300px;
+    margin-top: 0px;
+    width: 586px;
+    margin-bottom: 0px;
+    font-size: 42px;
+}
+.background2{
+    background-color: black;
+    height: 503px;
+}
+.tv1{
+    display: inline-block;
+    position: absolute;
+    left: 970px;
+    top: 937px;
+    width: 681px;
+}
+.polosa{
+    display: inline-block;
+    width: 102%;
+    height: 15px;
+    background-color: rgb(49, 49, 49);
+}
+.background3{
+    display: inline-block;
+    height: 540px;
+    background-color: black;
+    width: 100%;
+    position: absolute;
+}
+.tv2{
+    top: 1495px;
+    display: inline-block;
+    position: absolute;
+    height: 360px;
+    left: 330px;
+}
+.tele > h1{
+    display: inline-block;
+    position: absolute;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 45px;
+    margin-right: 45px;
+    height: 106px;
+    color: white;
+    left: 1060px;
+    font-size: 47px;
+    top: 1495px;
+    width: 474px;
+}
+.tele > h2{
+    display: inline-block;
+    position: absolute;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 45px;
+    margin-right: 45px;
+    height: 106px;
+    color: white;
+    left: 1060px;
+    font-size: 24px;
+    top: 1730px;
+    width: 492px;
+}
+.polosa2{
+    display: inline-block;
+    width: 102%;
+    height: 15px;
+    background-color: rgb(49, 49, 49);
+    position: absolute;
+    top: 1940px;
+}
+.background4{
+    display: inline-block;
+    position: absolute;
+    width: 100%;
+    height: 503px;
+    top: 1955px;
+}
+.background4 > h1{
+    display: inline-block;
+    position: absolute;
+    margin: 0px 45px;
+    top: 85px;
+    color: white;
+    left: 300px;
+    font-size: 63px;
+    width: 612px;
+}
+.background4 > h2{
+    display: inline-block;
+    position: absolute;
+    margin: 0px 45px;
+    top: 178px;
+    color: white;
+    left: 300px;
+    font-size: 31px;
+    width: 702px;
+}
+.background4 > img{
+    top: 33px;
+    display: inline-block;
+    position: absolute;
+    right: 372px;
+    height: 339px;
+}
+.polosa3{
+    display: inline-block;
+    width: 102%;
+    height: 15px;
+    background-color: rgb(49, 49, 49);
+    position: absolute;
+    top: 2460px;
+}
+.background5 > img{
+    top: 2600px;
+    display: inline-block;
+    position: absolute;
+    height: 310px;
+    left: 330px;
+}
+.background5 > h1{
+    display: inline-block;
+    position: absolute;
+    margin: 0px 45px;
+    height: 106px;
+    color: white;
+    left: 1060px;
+    font-size: 47px;
+    top: 2600px;
+    width: 474px;
+}
+.background5 > h2{
+    display: inline-block;
+    position: absolute;
+    margin: 0px 45px;
+    height: 106px;
+    color: white;
+    left: 1060px;
+    font-size: 19px;
+    top: 2811px;
+    width: 495px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
