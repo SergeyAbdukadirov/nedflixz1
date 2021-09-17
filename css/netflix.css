@@ -483,11 +483,11 @@ body {
 }
 .qu{
     display: inline-flex;
-    top: 4300px;
+    top: 4230px;
     margin-bottom: 1px;
     color: #525050;
     font-size: 19px;
-    left: 22%;
+    left: 19.8%;
     margin-right: 45px;
     margin-left: 45px;
     position: absolute;
@@ -496,11 +496,11 @@ body {
 }
 .qu1{
     display: inline-flex;
-    top: 4400px;
+    top: 4332px;
     margin-bottom: 1px;
     color: #525050;
     font-size: 19px;
-    left: 22%;
+    left: 19.8%;
     margin-right: 45px;
     margin-left: 45px;
     position: absolute;
@@ -509,11 +509,11 @@ body {
 }
 .form3{
     display: inline-block;
-    top: 4512px;
+    top: 4439px;
     margin-bottom: 1px;
     color: #525050;
     font-size: 19px;
-    left: -4%;
+    left: -6%;
     margin-right: 45px;
     margin-left: 45px;
     position: absolute;
@@ -522,11 +522,11 @@ body {
 }
 .close{
     display: inline-block;
-    top: 4583px;
+    top: 4510px;
     margin-bottom: 1px;
     color: #525050;
     font-size: 17px;
-    left: 24%;
+    left: 22%;
     margin-right: 45px;
     margin-left: 45px;
     position: absolute;
