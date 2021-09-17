@@ -24,7 +24,7 @@ body {
     border-color: #ffffff;
     right: 150px;
     top: 36px;
-    background: url() no-repeat 3px 1px;
+    background:  no-repeat 3px 1px;
     background-size: auto 90%;
 }
 .knopka1{
@@ -298,6 +298,66 @@ body {
     font-size: 19px;
     top: 2811px;
     width: 495px;
+}
+.polosa4{
+    display: inline-block;
+    width: 102%;
+    height: 15px;
+    background-color: rgb(49, 49, 49);
+    position: absolute;
+    top: 3000px;
+}
+.background6 > h1{
+    display: inline-block;
+    top: 3150px;
+    color: white;
+    font-size: 47px;
+    left: 30%;
+    margin-right: 45px;
+    position: absolute;
+    margin-left: 45px;
+}
+.background7 {
+    display: inline-block;
+    top: 3275px;
+    margin-bottom: 1px;
+    color: white;
+    font-size: 27px;
+    left: 24%;
+    background: #313131;
+    margin-right: 45px;
+    margin-left: 45px;
+    position: absolute;
+    padding: .8em 2.2em .8em 1.2em;
+    width: 724px;
+}
+.background8{
+    display: inline-block;
+    top: 3359px;
+    margin-bottom: 1px;
+    color: white;
+    font-size: 27px;
+    left: 24%;
+    background: rgb(49, 49, 49);
+    margin-right: 45px;
+    margin-left: 45px;
+    position: absolute;
+    padding: 0.8em 2.2em 0.8em 1.2em;
+    width: 724px;
+}
+.background9{
+    display: inline-block;
+    top: 3567px;
+    margin-bottom: 1px;
+    color: white;
+    font-size: 27px;
+    left: 24%;
+    background: rgb(49, 49, 49);
+    margin-right: 45px;
+    margin-left: 45px;
+    position: absolute;
+    padding: 0.8em 2.2em 0.8em 1.2em;
+    width: 724px;
 }
 
 
